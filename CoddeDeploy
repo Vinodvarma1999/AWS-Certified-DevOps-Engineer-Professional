@@ -1,0 +1,29 @@
+CodeDeploy
+
+◉ https://docs.aws.amazon.com/codedeploy/latest/APIReference/API_MinimumHealthyHosts.html
+
+◉ https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html
+
+◉ https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#appspec-hooks-server
+
+◉ https://docs.amazonaws.cn/en_us/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#reference-appspec-file-structure-environment-variable-availability
+
+◉ https://docs.aws.amazon.com/codedeploy/latest/userguide/monitoring-cloudwatch-events.html
+
+◉ https://aws.amazon.com/blogs/devops/view-aws-codedeploy-logs-in-amazon-cloudwatch-console/
+
+◉ https://docs.aws.amazon.com/codedeploy/latest/userguide/monitoring-sns-event-notifications.html
+
+◉ https://docs.aws.amazon.com/codedeploy/latest/userguide/deployments-rollback-and-redeploy.html
+
+◉ https://docs.aws.amazon.com/codedeploy/latest/userguide/deployment-groups-configure-advanced-options.html
+
+◉ https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-on-premises.html
+
+◉ https://docs.aws.amazon.com/codedeploy/latest/userguide/register-on-premises-instance-iam-user-arn.html
+
+◉ https://docs.aws.amazon.com/codedeploy/latest/userguide/register-on-premises-instance-iam-session-arn.html
+
+◉ https://docs.aws.amazon.com/codedeploy/latest/userguide/deployment-configurations.html#deployment-configuration-lambda
+
+◉ https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#appspec-hooks-lambda
