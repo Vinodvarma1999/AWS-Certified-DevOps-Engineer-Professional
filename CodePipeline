@@ -1,0 +1,19 @@
+CodePipeline
+
+◉ https://docs.aws.amazon.com/codepipeline/latest/userguide/reference-pipeline-structure.html#action-requirements
+
+◉ https://docs.aws.amazon.com/codepipeline/latest/userguide/best-practices.html#use-cases
+
+◉ https://docs.aws.amazon.com/codepipeline/latest/userguide/actions-invoke-lambda-function.html
+
+◉ https://docs.aws.amazon.com/codepipeline/latest/userguide/actions-create-custom-action.html
+
+◉ https://docs.aws.amazon.com/codepipeline/latest/APIReference/API_PutJobSuccessResult.html
+
+◉ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/continuous-delivery-codepipeline.html
+
+◉ https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-cloudformation.html
+
+◉ https://github.com/aws-samples/codepipeline-nested-cfn
+
+◉ https://aws.amazon.com/blogs/devops/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/
