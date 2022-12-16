@@ -1,0 +1,17 @@
+Beanstalk:
+
+◉ https://github.com/aws/aws-elastic-beanstalk-cli-setup
+
+◉ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-advanced.html
+
+◉ https://aws.amazon.com/blogs/devops/using-the-elastic-beanstalk-eb-cli-to-create-manage-and-share-environment-configuration/
+
+◉ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-options-general.html#command-options-general-autoscalingasg
+
+◉ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions-optionsettings.html
+
+◉ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environment-resources.html
+
+◉ https://stackoverflow.com/a/40096352/3019499
+
+◉ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker_v2config.html
