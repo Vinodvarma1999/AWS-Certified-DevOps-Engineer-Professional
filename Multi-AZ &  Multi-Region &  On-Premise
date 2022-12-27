@@ -1,0 +1,21 @@
+------------------------------------- Multi-AZ ------------------------------------------
+
+◉ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html
+
+------------------------------------- Multi-Region ------------------------------------------
+
+◉ https://docs.aws.amazon.com/config/latest/developerguide/aggregate-data.html
+
+◉ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/stacksets-getting-started.html
+
+◉ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/stacksets-prereqs.html
+
+◉ https://docs.aws.amazon.com/codepipeline/latest/userguide/actions-create-cross-region.html
+
+◉ https://aws.amazon.com/blogs/devops/using-aws-codepipeline-to-perform-multi-region-deployments/
+
+------------------------------------- On-Premise ------------------------------------------
+
+◉ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-linux-2-virtual-machine.html
+
+◉ https://aws.amazon.com/application-discovery/
