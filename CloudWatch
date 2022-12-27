@@ -1,0 +1,15 @@
+◉ https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html#Metric
+
+◉ https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/metrics-collected-by-CloudWatch-agent.html#linux-metrics-enabled-by-CloudWatch-agent
+
+◉ https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/Counting404Responses.html
+
+◉ https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/Subscriptions.html
+
+◉ https://aws.amazon.com/blogs/big-data/power-data-ingestion-into-splunk-using-amazon-kinesis-data-firehose/
+
+◉ https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/SubscriptionFilters.html#FirehoseExample
+
+◉ https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/Create-CloudWatch-Events-CloudTrail-Rule.html
+
+◉ https://docs.aws.amazon.com/AmazonS3/latest/user-guide/enable-event-notifications.html
