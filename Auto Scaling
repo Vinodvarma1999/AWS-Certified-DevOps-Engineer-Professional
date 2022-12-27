@@ -1,0 +1,25 @@
+◉ https://gist.github.com/mikepfeiffer/d27f5c478bef92e8aff4241154b77e54
+
+◉ https://aws.amazon.com/about-aws/whats-new/2018/05/application-load-balancer-announces-slow-start-support/
+
+◉ http://docs.aws.amazon.com/autoscaling/latest/userguide/as-suspend-resume-processes.html
+
+◉ https://docs.aws.amazon.com/autoscaling/ec2/userguide/lifecycle-hooks.html
+
+◉ https://github.com/aws-samples/aws-lambda-lifecycle-hooks-function
+
+◉ https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-instance-termination.html
+
+◉ https://aws.amazon.com/about-aws/whats-new/2015/12/protect-instances-from-termination-by-auto-scaling/
+
+◉ https://aws.amazon.com/blogs/devops/use-a-creationpolicy-to-wait-for-on-instance-configurations/
+
+◉ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-attribute-updatepolicy.html
+
+◉ https://aws.amazon.com/premiumsupport/knowledge-center/auto-scaling-group-rolling-updates/
+
+◉ https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-auto-scaling-group-create-deployment.html
+
+◉ https://docs.aws.amazon.com/codedeploy/latest/userguide/integrations-aws-auto-scaling.html
+
+◉ https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf
